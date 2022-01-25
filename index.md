@@ -3,29 +3,28 @@ title: **Italiani Estero - Azione**
 ---
 
 # Home
-### Team Members:
+### Editors:
 * _Claudio Vignola_   
 claudiofmvignola@gmail.com
 * _Luca Di Grazia_    
 luca.digrazia94@gmail.com
 
 
-[Feedback](https://forms.gle/XkRthaYj4gMkPLWS8)
+[Feedback](https://forms.gle/NJjV29cwQxJZwxc78)
 
-[*_Folder_*](https://drive.google.com/drive/folders/1MoJhEPHCe2aVk2mjStybkiUt9FYEDjEn?usp=sharing)
+[*_Folder_*](https://drive.google.com/drive/u/1/folders/1FFjdrbZXcaxTuNO8uTnLsSJE2ERG_hbs)
 
 ## Italiani all'estero
-[How to modify actuator’s stiffness to achieve controllable linear motion of a paper and plastic based robotic actuator/s using foldable robotics techniques.](/researchquestion)
+[Italiani all'estero](/researchquestion)
 
 ## AIRE - Anagrafe degli Italiani Residenti all'Estero
-
-[Biomechanics Background and Initial Specifications](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/Biomechanics%20Background%20and%20Initial%20Specifications.ipynb)
+[AIRE - Anagrafe degli Italiani Residenti all'Estero](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/Biomechanics%20Background%20and%20Initial%20Specifications.ipynb)
 
 [Updated Specifications](/Specifications_Table.md)
 
 
-## Link Utili
-[Link to Bibliography](/bibliography)
+## [Link Utili](/link)
+
 
 
 
