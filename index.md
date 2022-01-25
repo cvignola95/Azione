@@ -4,8 +4,8 @@ title: **Italiani Estero - Azione**
 
 # Home
 ### Team Members:
-* _Claudio Vignola_     
-cvignola@asu.edu
+* _Claudio Vignola_   claudiofmvignola@gmail.com
+* _Luca Di Grazia_    luca.digrazia94@gmail.com
 
 
 [Feedback](https://forms.gle/XkRthaYj4gMkPLWS8)
