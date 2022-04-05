@@ -18,7 +18,7 @@ luca.digrazia94@gmail.com
 [Italiani all'estero](/researchquestion)
 
 ## AIRE - Anagrafe degli Italiani Residenti all'Estero
-[AIRE - Anagrafe degli Italiani Residenti all'Estero](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/Biomechanics%20Background%20and%20Initial%20Specifications.ipynb)
+[AIRE - Anagrafe degli Italiani Residenti all'Estero](/AIRE.md)
 
 [Updated Specifications](/Specifications_Table.md)
 ## Storie
