@@ -47,8 +47,8 @@ responsabile di SICUREZZA E DIFESA in AZIONE.
 Arruolatosi in aeronautica nel 1965, frequenta fino al 1969 l'Accademia Aeronautica con il corso Drago III, laureandosi in Scienze Aeronautiche presso l'Università degli studi di Napoli Federico II. Dal 20 settembre 2006 fino al 30 gennaio 2008 è stato Capo di stato maggiore dell'Aeronautica Militare. Ha ricoperto dal 12 febbraio 2008 fino al 17 gennaio 2011, l'incarico di Capo di stato maggiore della difesa. Fino al novembre 2011 è stato consulente del Ministro degli affari esteri Franco Frattini e poi è stato eletto Vicepresidente dell'Istituto Affari Internazionali. È membro della Fondazione Italia USA. Già Vicepresidente dell'Istituto Affari Internazionali, attualmente è Consigliere Scientifico dell'Istituto Affari Internazionali.
 
 ## [Link Utili](/link)
-* azione.it
-* informazionefiscale.it
+* (azione.it)
+* (informazionefiscale.it)
 
 
 
