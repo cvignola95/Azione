@@ -15,10 +15,18 @@ luca.digrazia94@gmail.com
 [*_Folder_*](https://drive.google.com/drive/u/1/folders/1FFjdrbZXcaxTuNO8uTnLsSJE2ERG_hbs)
 
 ## Italiani all'estero
-[Italiani all'estero](/researchquestion)
+Italiani all'estero
 
 ## AIRE - Anagrafe degli Italiani Residenti all'Estero
 [AIRE - Anagrafe degli Italiani Residenti all'Estero](/AIRE.md)
+
+Sono fiscalmente residenti all’estero e devono iscriversi all’AIRE, i cittadini che si trasferiscono per periodi superiori a 12 mesi o quelli che già vi risiedono, sia perché nati all’estero che per successivo acquisto della cittadinanza italiana a qualsiasi titolo.
+
+Non vi è obbligo per:
+ * le persone che vanno all’estero per un periodo di tempo inferiore ad un anno;
+ * i lavoratori stagionali;
+ * i dipendenti di ruolo dello Stato in servizio all’estero, che siano notificati ai sensi delle Convenzioni di Vienna sulle relazioni diplomatiche e sulle relazioni consolari rispettivamente del 1961 e del 1963;
+ * i militari italiani in servizio presso gli uffici e le strutture della NATO dislocate all’estero.
 
 ## SPID - Sistema Pubblico di Identità Digitale
 [SPID](https://www.spid.gov.it/en/what-is-spid/how-to-activate-spid/)
@@ -39,7 +47,8 @@ responsabile di SICUREZZA E DIFESA in AZIONE.
 Arruolatosi in aeronautica nel 1965, frequenta fino al 1969 l'Accademia Aeronautica con il corso Drago III, laureandosi in Scienze Aeronautiche presso l'Università degli studi di Napoli Federico II. Dal 20 settembre 2006 fino al 30 gennaio 2008 è stato Capo di stato maggiore dell'Aeronautica Militare. Ha ricoperto dal 12 febbraio 2008 fino al 17 gennaio 2011, l'incarico di Capo di stato maggiore della difesa. Fino al novembre 2011 è stato consulente del Ministro degli affari esteri Franco Frattini e poi è stato eletto Vicepresidente dell'Istituto Affari Internazionali. È membro della Fondazione Italia USA. Già Vicepresidente dell'Istituto Affari Internazionali, attualmente è Consigliere Scientifico dell'Istituto Affari Internazionali.
 
 ## [Link Utili](/link)
-
+* azione.it
+* informazionefiscale.it
 
 
 
