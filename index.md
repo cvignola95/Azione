@@ -24,8 +24,9 @@ luca.digrazia94@gmail.com
 [SPID](https://www.spid.gov.it/en/what-is-spid/how-to-activate-spid/)
 
 ## Storie
-[Evento di Stati Uniti in Azione: Elezioni di medio termine e crisi internazionale russo-ucraina - *_25 Feb 2022_*](https://www.youtube.com/watch?v=PMLtIc6dBQQ&t=8s)
 [![Video](/VideoAzione.png)](https://www.youtube.com/watch?v=PMLtIc6dBQQ&t=8s)
+[Evento di Stati Uniti in Azione: Elezioni di medio termine e crisi internazionale russo-ucraina - *_25 Feb 2022_*](https://www.youtube.com/watch?v=PMLtIc6dBQQ&t=8s)
+
 Evento organizzato da Stati Uniti in Azione per la sezione di Azione Estero su come la politica interna americana possa essere influenzata dall'attuale crisi di guerra in Ucraina causata dall'invasione della Russia. 
 Partecipano il gruppo di Stati Uniti in Azione in collaborazione con il Gen. Camporini, Massimo Angelone e Tiziano Fiore, rispettivamente i referenti di Ucraina in Azione ed Estonia in Azione.
 
