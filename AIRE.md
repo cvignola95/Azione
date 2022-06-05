@@ -19,3 +19,5 @@ La richiesta viene fatta tramite il consolato il riferimento della vostra città
 
 Queste sono le informazioni generali per quanto riguarda l’AIRE. Per informazioni più dettagliate riguardo la vostra situazione specifica, potete consultare il vostro consolato di riferimento.
 
+https://serviziconsolarionline.esteri.it/ScoFE/services/category-info.sco?categoryId=3
+
